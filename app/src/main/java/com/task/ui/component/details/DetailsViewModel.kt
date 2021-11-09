@@ -15,7 +15,7 @@ import kotlinx.coroutines.launch
 import javax.inject.Inject
 
 /**
- * Created by AhmedEltaher
+ * Created by Ahmad Saifuddin
  */
 @HiltViewModel
 open class DetailsViewModel @Inject constructor(private val dataRepository: DataRepositorySource) : BaseViewModel() {

@@ -23,7 +23,7 @@ import java.lang.Thread.sleep
 
 
 /**
- * Created by AhmedEltaher
+ * Created by Ahmad Saifuddin
  */
 @HiltAndroidTest
 class LoginActivityTest {

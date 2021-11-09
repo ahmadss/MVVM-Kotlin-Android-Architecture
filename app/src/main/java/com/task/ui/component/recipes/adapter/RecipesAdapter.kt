@@ -9,7 +9,7 @@ import com.task.ui.base.listeners.RecyclerItemListener
 import com.task.ui.component.recipes.RecipesListViewModel
 
 /**
- * Created by AhmedEltaher
+ * Created by Ahmad Saifuddin
  */
 
 class RecipesAdapter(private val recipesListViewModel: RecipesListViewModel, private val recipes: List<RecipesItem>) : RecyclerView.Adapter<RecipeViewHolder>() {

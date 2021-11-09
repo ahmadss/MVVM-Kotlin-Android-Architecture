@@ -11,7 +11,7 @@ import com.task.SPLASH_DELAY
 import dagger.hilt.android.AndroidEntryPoint
 
 /**
- * Created by AhmedEltaher
+ * Created by Ahmad Saifuddin
  */
 @AndroidEntryPoint
 class SplashActivity : BaseActivity(){

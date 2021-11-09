@@ -1,14 +1,13 @@
 <resources>
-    <string name="app_name">Ahmed Task</string>
+    <string name="app_name">Ahmad Task</string>
     <string name="no_data">No Data</string>
     <string name="search_by_name">Search by name</string>
     <string name="search_error">there is no such recipe name</string>
-    <string name="recipe_details_preview">this is the recipes details, some text to test the appearance of
-        the view It\'s time for a truly uncompromising smartphone. One that was designed and
-        manufactured by technical enthusiasts - in close coordination with the future users. A
-        smartphone that perfectly combines fascinating technology, groundbreaking design and
-        breakthrough innovation. It is time for the OnePlus 3. But do not rely on our word. Convince
-        yourself.
+    <string name="recipe_details_preview">ini adalah detail resep, beberapa teks untuk menguji tampilan tampilan
+        Saatnya untuk smartphone yang benar-benar tanpa kompromi.
+        Salah satu yang dirancang dan diproduksi oleh penggemar teknis - dalam koordinasi yang erat dengan pengguna masa depan.
+        Sebuah smartphone yang secara sempurna menggabungkan teknologi menarik, desain inovatif dan inovasi terobosan.
+        Tapi jangan mengandalkan kata-kata kami. Yakinkan dirimu.
     </string>
     <string name="recipe_title_preview">this is the recipe name</string>
     <string name="recipe">Recipes</string>
@@ -26,6 +25,6 @@
     <string name="invalid_password">Password must be >4 characters</string>
     <string name="invalid_username_and_password">please check your username and password</string>
     <string name="add_to_favorite">Add to favorite</string>
-    <string name="test_password">ahmed</string>
-    <string name="test_email">ahmed@ahmed.ahmed</string>
+    <string name="test_password">ahmad</string>
+    <string name="test_email">ahmad@ahmad.ahmad</string>
 </resources>

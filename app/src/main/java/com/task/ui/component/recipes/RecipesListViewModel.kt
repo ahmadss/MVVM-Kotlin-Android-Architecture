@@ -18,7 +18,7 @@ import java.util.Locale.ROOT
 import javax.inject.Inject
 
 /**
- * Created by AhmedEltaher
+ * Created by Ahmad Saifuddin
  */
 @HiltViewModel
 class RecipesListViewModel @Inject

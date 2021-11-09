@@ -11,16 +11,16 @@ import com.task.data.error.PASS_WORD_ERROR
 import javax.inject.Inject
 
 /**
- * Created by AhmedEltaher
+ * Created by Ahmad Saifuddin
  */
 
 class LocalData @Inject constructor(val context: Context) {
 
     fun doLogin(loginRequest: LoginRequest): Resource<LoginResponse> {
-        if (loginRequest == LoginRequest("ahmed@ahmed.ahmed", "ahmed")) {
-            return Resource.Success(LoginResponse("123", "Ahmed", "Mahmoud",
-                    "FrunkfurterAlle", "77", "12000", "Berlin",
-                    "Germany", "ahmed@ahmed.ahmed"))
+        if (loginRequest == LoginRequest("ahmad@ahmad.ahmad", "ahmad")) {
+            return Resource.Success(LoginResponse("123", "Ahmad", "Saifuddin",
+                    "Kota Tangerang", "77", "12000", "Jakarta",
+                    "Indonesia", "ahmad@ahmad.ahmad"))
         }
         return Resource.DataError(PASS_WORD_ERROR)
     }
